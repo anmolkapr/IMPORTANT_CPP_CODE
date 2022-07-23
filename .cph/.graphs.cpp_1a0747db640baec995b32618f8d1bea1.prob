@@ -1,1 +1,0 @@
-{"name":"Local: graphs","url":"d:\\CP\\theory\\graphs.cpp","tests":[{"id":1655531510821,"input":"3\n3\n0 1 10\n1 2 5\n0 2 9","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CP\\theory\\graphs.cpp","group":"local","local":true}
